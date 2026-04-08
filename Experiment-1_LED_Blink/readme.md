@@ -14,7 +14,7 @@ To take a number (0–7) from the Serial Monitor and display its binary equivale
 
 ---
 
-## ⚙️ Working Principle
+## Working Principle
 The user inputs a number (0–7) via the Serial Monitor.  
 The Arduino converts the number into binary and displays it using 3 LEDs.
 
@@ -25,7 +25,7 @@ Each LED represents one bit:
 
 ---
 
-## 🔌 Circuit Connections
+## Circuit Connections
 
 | LED | Arduino Pin |
 |-----|------------|
